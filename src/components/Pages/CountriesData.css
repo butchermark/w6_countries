@@ -1,0 +1,16 @@
+.main-div {
+  display: flex;
+  flex-direction: column;
+}
+header {
+  font-size: 24px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.under-header {
+  font-size: 24px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}

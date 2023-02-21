@@ -1,0 +1,27 @@
+.country-div {
+  display: flex;
+  flex-direction: row;
+  font-size: 24px;
+  text-align: center;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.under-header {
+  display: flex;
+}
+.details-upper-div {
+  display: flex;
+  width: 600px;
+  flex-direction: column;
+}
+.details-lower-div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.lower-div-1 {
+  text-align: left;
+}
+.lower-div-2 {
+  text-align: right;
+}
